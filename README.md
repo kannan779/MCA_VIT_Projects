@@ -1,1 +1,1 @@
-# BCA-3-sem-projects
+# MCA_VIT_Projects
